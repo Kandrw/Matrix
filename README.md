@@ -1,2 +1,2 @@
 # Matrix
-Working with matrices                                                                                                              Project in development
+Working with matrices.                                                                                                              Project in development
